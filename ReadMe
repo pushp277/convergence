@@ -17,7 +17,7 @@ note: for the stating phase I am going to use php and google drive of the tct138
 
 2. student.php: Student login Page: contains a query page where student can upload their queries and tag a specific Mentor/All over the globe student can have chat with the Mentor as well.
 
-3. mentor.php: Mentor login Page: contains a query-answer page where they can upload solutions to a perticular query. 
+3. mentor.php: Mentor login Page: contains a query-answer page where they can upload solutions to a particular query. 
 
 
 
