@@ -1,0 +1,27 @@
+I have decided to create a dynamic website which we will be using to promote our "The Convergence Team".
+it will contain the following stuffs
+
+pre-requisite for website development html, javascript, php, css, python 3.0+
+
+1. What are we doing now?
+2. Future goal 
+3. Fee Structure
+4. Every thing that is mentioned in our official brochure
+
+
+Structure of the website:-
+
+note: for the stating phase I am going to use php and google drive of the tct13820@gmail.com as my server after getting success I will shift to Node.js. 
+
+1. index.php contains brochure as well as the login page as Student or Mentor. note a person can be both Student and Mentor. 
+
+2. student.php: Student login Page: contains a query page where student can upload their queries and tag a specific Mentor/All over the globe student can have chat with the Mentor as well.
+
+3. mentor.php: Mentor login Page: contains a query-answer page where they can upload solutions to a perticular query. 
+
+
+
+
+
+
+
